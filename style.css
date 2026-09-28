@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+    font-family: Times New Roman, sans-serif;
+}
+h1 {
+    background-color: chocolate;
+    border: 6px double red
+}
+select {
+    font-size: 16px;
+    padding: 10px;
+    border: 2px solid #007bff;
+    border-radius: 8px;
+}
+h2 {
+    color: #007bff;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+}
